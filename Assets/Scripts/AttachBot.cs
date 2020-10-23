@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Grab : MonoBehaviour
+public class AttachBot : MonoBehaviour
 {
     public GameObject Bot;
 
