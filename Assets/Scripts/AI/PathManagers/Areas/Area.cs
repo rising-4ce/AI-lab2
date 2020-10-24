@@ -6,7 +6,6 @@ namespace Assets.Scripts.AI.Areas
     {
         private GameObject Player;
         public int N;
-        public Area[] neighbors;
         public GameObject[] WaypointsToNeighbors;
         private CurrentAreaContainer CurrentAreaContainer;
         public Area[] Neighbors;
